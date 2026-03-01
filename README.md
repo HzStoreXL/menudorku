@@ -6,7 +6,7 @@ pkg install git -y
 ```
 
 git clone https://github.com/HzStoreXL/menudorku
-
+```
 bash menudorku/install.sh
 ```
 
