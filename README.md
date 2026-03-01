@@ -14,4 +14,5 @@ bash menudorku/install.sh
 ```
 6. Run the script
 ```
-
+$HOME/menu.py
+```
