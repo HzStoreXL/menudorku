@@ -8,9 +8,10 @@ pkg install git -y
 ```
 git clone https://github.com/HzStoreXL/menudorku
 ```
-6. Run the script
+5. Setup
 ```
 bash menudorku/install.sh
 ```
-
+6. Run the script
+```
 
