@@ -426,7 +426,7 @@ def make_welcome_table():
     t = Table(show_header=False, box=box.DOUBLE, width=70, border_style="cyan")
     t.add_column(justify="center")
     t.add_row("[bold yellow]🌟 SELAMAT DATANG DI TERMUX 🌟[/bold yellow]")
-    t.add_row("[dim]BY JONI WIJAYA FATHONI[/dim]")
+    t.add_row("[dim]BY MY XL SMART LC[/dim]")
     return t
 
 
