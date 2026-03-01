@@ -4,7 +4,8 @@ LANGSUNG COPY DAN PASTEKAN DI TERMUX.
 ```
 pkg install git -y
 ```
-
+3. Clone this repo
+```
 git clone https://github.com/HzStoreXL/menudorku
 ```
 bash menudorku/install.sh
