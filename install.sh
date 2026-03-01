@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
 
-REPO_URL="https://raw.githubusercontent.com/Jwfathoni/menutrmx/main/menu.py"
+REPO_URL="https://raw.githubusercontent.com/HzStoreXL/menudorku/main/menu.py"
 TARGET="$HOME/menu.py"
 BASHRC="$HOME/.bashrc"
-MARKER="# MENUTRMX-AUTO-MENU"
+MARKER="# MENUDORKU-AUTO-MENU"
 
 echo "[1/4] Install dependencies..."
 pkg update -y >/dev/null
@@ -33,4 +33,4 @@ echo "[4/4] Done!"
 echo
 echo "✅ Menu terpasang."
 echo "➡️ Tutup Termux lalu buka lagi untuk melihat menu otomatis."
-echo "ℹ️ Untuk uninstall: bash ~/menutrmx/uninstall.sh"
+echo "ℹ️ Untuk uninstall: bash ~/menudorku/uninstall.sh"
